@@ -1,4 +1,4 @@
-!pip install streamlit pandas plotly-express --quiet
+
 
 import streamlit as st
 import pandas as pd
